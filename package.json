@@ -6,7 +6,11 @@
   "typings": "dist/index.d.ts",
   "files": [
     "bin/",
-    "dist/"
+    "dist/",
+    "src/",
+    "tsconfig.json",
+    "tslint.commit.json",
+    "tslint.json",
   ],
   "bin": {
     "ngx-translate-extract": "bin/cli.js"
